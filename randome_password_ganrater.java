@@ -1,6 +1,8 @@
 
 import java.security.SecureRandom;
 
+//CRETE PUBLIC CLASS 
+
 public class randome_password_ganrater {
 
     public static void main(String[] args) {
