@@ -6,7 +6,7 @@ public class Calculator {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            // Display menu
+            
             System.out.println("Select operation:");
             System.out.println("1. Add");
             System.out.println("2. Subtract");
