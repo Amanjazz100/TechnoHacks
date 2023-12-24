@@ -11,6 +11,7 @@ public class randome_password_ganrater {
 
         System.out.println("Generated Password: " + generatedPassword);
     }
+// password contains VARCHAR or contains special symbol
 
     private static String generatePassword(int length) {
         String uppercaseLetters = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
